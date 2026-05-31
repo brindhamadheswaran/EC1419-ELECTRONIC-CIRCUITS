@@ -11,11 +11,8 @@
 <img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
-
-
-## Tabulation
-
 ## Graph
+<img width="954" height="1839" alt="WhatsApp Image 2026-05-31 at 11 36 33 PM" src="https://github.com/user-attachments/assets/e598cb5a-1fd3-4e4d-a02a-e8b44438e9ab" />
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
